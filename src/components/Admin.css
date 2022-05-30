@@ -1,0 +1,63 @@
+.breadcrumb-item+.breadcrumb-item::before {
+    content: var(--bs-breadcrumb-divider, ">") !important;
+}
+
+.searchBar {
+    margin-right: 100px;
+    width: 826px;
+}
+
+.Breadcrumb {
+    border: "none" !important;
+    /* width: 50px; */
+    /* height: 500px; */
+    margin-left: 104px;
+    background-color: #F9F9F9
+}
+
+.table {
+    width: 1400px;
+    height: 600px;
+    background-color: #FFFFFF;
+}
+
+.App {
+    background-color: #F9F9F9;
+}
+
+.drawer {
+    position: absolute;
+    margin-top: 200px;
+}
+
+.css-2dum1v-MuiDrawer-docked .MuiDrawer-paper {
+    margin-top: 72px !important;
+}
+
+.tableTop {
+    color: rgba(250, 168, 29, 1);
+}
+
+.MentorTable {
+    border: "none" !important;
+    margin-left: 104px;
+    background-color: #F9F9F9
+}
+
+.requestbutton1 {
+    font: normal normal 600 14px/19px Open Sans;
+    letter-spacing: 0px;
+    opacity: 100%;
+    background-color:#00811A80;
+    color:#00811A;
+
+}
+.requestbutton2 {
+    font: normal normal 600 14px/19px Open Sans;
+    letter-spacing: 0px;
+    opacity: 100%;
+    background-color:#B2000C80;
+    color:#CE000E;
+    margin-left: 10px;
+
+}

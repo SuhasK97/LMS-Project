@@ -1,0 +1,134 @@
+ /* #components-form-demo-normal-login .login-form {
+     max-width:" 300px";
+   }
+     #components-form-demo-normal-login .login-form-forgot {
+       float: right;
+     }
+     #components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+       float: left;
+     }
+     #components-form-demo-normal-login .login-form-button {
+       width: 100%;
+     } */
+ /* .button{
+         background-color: #FAA81D;
+        display: inline-block;
+
+     } */
+ /* .Logo{
+         height: auto;
+         width: 890px;
+     } */
+ body {
+     background-image: url("../image/backgroung.png");
+     background-size: cover;
+     height: 100vh;
+     backdrop-filter: blur(-11px);
+     /* opacity: 100%; */
+ }
+
+ img {
+     height: 620px;
+     width: 550px;
+     border-radius: 18px 0px 0px 18px;
+     margin-bottom: 120px;
+
+
+ }
+
+ .Login {
+     display: "flex";
+     flex-direction: "row";
+     border: "1px solid black";
+     margin-right: 25px;
+     /* width: 500px; */
+     width: 900px;
+     height: 620px;
+     margin-left: 375px;
+     border: 1px solid #000000;
+     border-radius: 18px;
+     position: fixed;
+     margin-top: 80px;
+     margin-bottom: 200px;
+     border: none;
+
+
+ }
+
+ .form {
+     background-color: #000000A2;
+     border-radius: 0px 18px 18px 0px;
+     width: 350px;
+     height: 620px;
+     margin-bottom: 120px;
+ }
+
+ .form Form {
+     margin-left: 40px;
+     margin-right: 40px;
+     width: 270px;
+     height: 12px;
+     /* border: 1px solid #C4C4C4; */
+     border-radius: 8px 8px 8px 8px;
+     margin-top: -55px;
+ }
+
+ .form h6 {
+     color: white;
+     margin-right: 100px;
+     text-align: start;
+     opacity: 100%;
+     /* font: var(--unnamed-font-style-normal) normal medium 12px/18px Agrandir Variable; */
+     font: normal normal medium 12px/18px Agrandir Variable;
+ }
+
+ .form h1 {
+     font: var(--unnamed-font-style-normal) normal normal 37px/191px Abril Fatface;
+     text-align: center;
+     font: normal normal normal 37px/191px Abril Fatface;
+     letter-spacing: 0px;
+     color: #FFAA17;
+     opacity: 1;
+     margin-top: -180px;
+ }
+
+ .form Form button {
+     width: 135px;
+     border-radius: 9px;
+     height: 40px;
+ }
+
+ .button {
+     margin-top: -1px;
+ }
+
+ .ChangePassword {
+     margin-top: 290px;
+     text-align: center;
+     font: normal normal 600 14px/19px Open Sans;
+     letter-spacing: 0px;
+     opacity: 1;
+ }
+
+ hr {
+     width: 280px;
+     color: #000000A2;
+ }
+
+ p1 {
+     display: inline;
+     font: normal normal normal 12px/16px Larsseit;
+     letter-spacing: 0px;
+     color: #E7E7E7;
+     opacity: 1;
+
+ }
+ p2 {
+    display: inline;
+    font: normal normal normal 12px/16px Larsseit;
+    letter-spacing: 0px;
+    color: #E7E7E7;
+    opacity: 1;
+  
+
+}
